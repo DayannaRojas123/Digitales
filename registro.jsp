@@ -81,9 +81,9 @@ out.println("Contraseña: " + contrasena);
             
             // Redirigir al usuario a una página de éxito
             if ("admin".equals(request.getParameter("tipo"))) {
-                response.sendRedirect("admin.html?id="+nombre);
+                response.sendRedirect("admin.jsp?id="+nombre);
             } else if ("cliente".equals(request.getParameter("tipo"))) {
-                response.sendRedirect("cliente.html?id="+nombre);
+                response.sendRedirect("cliente.jsp?id="+nombre);
             }
             
         } catch (Exception e) {

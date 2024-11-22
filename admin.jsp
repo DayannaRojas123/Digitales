@@ -170,6 +170,18 @@
           </div>
         </section>
         <!-- NEWSLETTER-->
+          </section>
+          <!-- NEWSLETTER-->
+                <section>
+            <iframe src="https://scratch.mit.edu/projects/1088912158/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen style="margin: 50px;"></iframe>
+            <video width="640" height="360" controls>
+              <source src="./img/WhatsApp Video 2024-11-17 at 1.48.40 PM.mp4" type="video/mp4">
+            </video>
+            <iframe src="https://kahoot.it/challenge/?quiz-id=87fc69f1-b26e-42fc-8499-107313c8a9aa&single-player=true" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
+            <video width="640" height="360" controls>
+              <source src="./img/Ainara_-_Shirt.webm" type="video/webm">
+            </video>
+          </section>
      
       </div>
       <footer class="bg-dark text-white">
